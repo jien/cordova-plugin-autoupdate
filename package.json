@@ -1,0 +1,29 @@
+{
+  "name": "cordova-plugin-autoupdate",
+  "version": "0.1.0",
+  "description": "Cordova AutoUpdate Plugin",
+  "cordova": {
+    "id": "cordova-plugin-autoupdate",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jien/cordova-plugin-autoupdate.git"
+  },
+  "keywords": [
+    "cordova",
+    "autoupdate",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "liwenlong",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/jien/cordova-plugin-autoupdate/issues"
+  },
+  "homepage": "https://github.com/jien/cordova-plugin-autoupdate#readme"
+}
